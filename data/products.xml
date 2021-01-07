@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<products>
+	<product id="p1">
+		<name>AirPods</name>
+		<price currency="USD">100</price>
+	</product>
+	<product id="p2">
+		<name>knife set</name>
+		<price currency="USD">360</price>
+	</product>
+	<product id="p3">
+		<name>vintage toaster</name>
+		<price currency="USD">3000</price>
+	</product>
+</products>
